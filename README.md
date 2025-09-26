@@ -26,6 +26,10 @@ How to set up the configuration for OAC
   
 ### Analytics 에서 Applications 선택 후 App ADD(내가 생성한 OAC)  
 <img width="2676" height="1344" alt="image" src="https://github.com/user-attachments/assets/4c19dd3f-4395-4356-be29-fc68ef105d75" />  
+  
+  
+### 참고자료
+[OAC와 MySQL HeatWave 연결 영상](https://www.youtube.com/watch?v=XCFqCDX2VKQ&t=1s)
 
 
 
