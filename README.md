@@ -1,10 +1,11 @@
 # How to connect OAC(Oracle Analytics Cloud) on OCI
 How to set up the configuration for OAC
 
-## 1. 설치 환경
+## 1. OAC 생성과 HeatWave 연결설정이 완료 되었다면 추가적으로 Access 할 수 있도록 설정이 필요합니다.
 오라클 클라우드(OCI) 환경  
 
-## Object Store에서 rpm tar 및 cert tar 파일을 다운로드  
+## OAC 를 생성한 계정(Identity) 의 설정이 필요해요
+### Identity & Security -> Domains 
 
   
 <img width="2742" height="1456" alt="image" src="https://github.com/user-attachments/assets/78e1d9b7-5072-4ab0-9bb3-2e0cdf8721b6" />  
